@@ -16,7 +16,6 @@ def get_perfect_numbers(n):
         if (is_perfect(i)) == True:
             ln.append(i)
             
-    for u in range(len(ln)):
-        print (ln[u] ," ",end="")
+    return ln
 
-get_perfect_numbers(n)
+get_perfect_numbers()
