@@ -18,4 +18,4 @@ def get_perfect_numbers(n):
             
     return ln
 
-get_perfect_numbers()
+get_perfect_numbers(n)
