@@ -17,4 +17,3 @@ def fibonacci_sequence(n):
         x+=1
         return fibonacci
 
-fibonacci_sequence(n)
